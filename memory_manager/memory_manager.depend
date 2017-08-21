@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503346778 source:c:\users\ondrej\documents\github\dsa2017-zadanie1\memory_manager\main.c
+	<stdio.h>
+	<time.h>
+
